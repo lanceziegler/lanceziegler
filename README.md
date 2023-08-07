@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hey there 👋 My name is Lance
 
 <!--
 **lanceziegler/lanceziegler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```js
+const lance = {
+  languages: ['javascript/typescript', 'java'],
+  technologies: {
+    frontend: {
+      js: ['react', 'redux'],
+      css: ['bootstrap', 'material-ui', 'sass'],
+    },
+    backend: {
+      js: ['node.js', 'express.js'],
+    },
+    database: ['SQL', 'NoSQL'],
+    misc: ['git', 'jest'],
+  },
+  askMeAbout: [
+    'web dev',
+    'mobile tech',
+    'guitar',
+    'smash bros',
+    'weight lifting',
+    'San Diego hiking',
+  ],
+};
+```
