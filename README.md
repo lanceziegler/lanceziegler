@@ -20,7 +20,7 @@ const lance = {
   languages: ['javascript/typescript', 'java'],
   technologies: {
     frontend: {
-      js: ['react', 'redux'],
+      js: ['react', 'next', 'redux'],
       css: ['bootstrap', 'material-ui', 'sass'],
     },
     backend: {
