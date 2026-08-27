@@ -25,7 +25,7 @@ const lance = {
   },
   hobbies: [
     `digitizing VHS tapes and other media relics from the 90's`,
-    `Logic Pro`,
+    `recovering diminishing guitar skills`,
     `hiking mountains and then staring at the sunset while contemplating life and stuff`,
   ],
   askMeAbout: [
