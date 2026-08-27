@@ -18,20 +18,20 @@ Here are some ideas to get you started:
 ```js
 
 const lance = {
-  vibecodingphilosophy: {
-    name: 'SNIT',
+  myProjects: {
+    what: 'SNIT',
     definition: 'Stuff with No Inherent Telos',
-    translation: 'I make pointless shit for no reason other than because I can',
+    translation: `I make pointless shit for no reason other than because I can`,
   },
   hobbies: [
     `digitizing VHS tapes and other media relics from the 90's`,
-    'Logic Pro',
-    'hiking mountains and then staring at the sunset while contemplating life and stuff',
+    `Logic Pro`,
+    `hiking mountains and then staring at the sunset while contemplating life and stuff`,
   ],
   askMeAbout: [
-    'why free will is fake',
-    'my latest SNIT',
-    'my smash bros main',
+    `my latest SNIT`,
+    `my smash bros main`,
+    `why free will is fake`,
   ],
 };
 ```
