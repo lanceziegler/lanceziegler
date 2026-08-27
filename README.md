@@ -24,7 +24,7 @@ const lance = {
     translation: 'I make pointless shit for no reason other than because I can',
   },
   hobbies: [
-    'digitizing VHS tapes and other media relics from the 90\'s',
+    `digitizing VHS tapes and other media relics from the 90's`,
     'Logic Pro',
     'hiking mountains and then staring at the sunset while contemplating life and stuff',
   ],
