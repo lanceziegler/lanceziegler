@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ```js
-const portfolioWebsite = 'https://lanceziegler.dev/';
 
 const lance = {
   languages: ['javascript/typescript', 'java'],
